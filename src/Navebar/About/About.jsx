@@ -16,6 +16,7 @@ const About=()=>{
       return (
         <>
         <h2>hi</h2>
+        <h3>heyyy</h3>
           <div className='container me-5'style={{overflow:'scroll'}}>
             <div className='main-heading'>
               <h1>india covid 19</h1>
