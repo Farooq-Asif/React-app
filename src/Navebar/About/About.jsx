@@ -19,7 +19,7 @@ const About=()=>{
         <h3>heyyy</h3>
           <div className='container me-5'style={{overflow:'scroll'}}>
             <div className='main-heading'>
-              <h1>india covid 19</h1>
+              <h1 className="text-danger">india covid 19</h1>
             </div>
             <div className='table-responsive'>
               <table>
