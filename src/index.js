@@ -16,10 +16,7 @@ import { BrowserRouter ,createBrowserRouter} from 'react-router-dom';
 const routercon = ReactDOM.createRoot(document.getElementById('nav-con'));
 routercon.render(
     <>
-    <h1>git add .
-git commit -m "my changes" 
-git remote add origin https://github.com/zinmyoswe/React-and-Django-Ecommerce.git
-git push -u origin master</h1>
+    
  <Navebar />
     </>
 
