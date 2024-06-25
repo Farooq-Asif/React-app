@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    /* border: 2px solid white; */
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    border-color: 2px solid #fff;
+    transition: 0.5s ease-in-out;
+  
+}
+li{
+    transition: 0.5s ease-in-out;
+    list-style: none;
+}
+a {
+    transition: 0.5s ease-in-out;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.red{
+    transition: 0.5s ease-in-out;
+  border-bottom: 2px solid red;
+}
