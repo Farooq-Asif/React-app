@@ -16,13 +16,8 @@ import { BrowserRouter ,createBrowserRouter} from 'react-router-dom';
 const routercon = ReactDOM.createRoot(document.getElementById('nav-con'));
 routercon.render(
     <>
-    
  <Navebar />
-    </>
-
-  
-  
-            
+    </>      
 );
 
 // If you want to start measuring performance in your app, pass a function
