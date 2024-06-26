@@ -1,6 +1,6 @@
 {
   "name": "my-awesome",
- "homepage": "http://Farooq-Asif.com/React-app",
+  "homepage": "http://Farooq-Asif.com/React-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1"
   }
 }
